@@ -3,7 +3,7 @@
 meu nome é julia
 
 - estudo progamação
-- organizar e compartilhar projetos
+- utilando o perfil para organizar e compartilhar projetos
 
   ## contatos via instagram
 
